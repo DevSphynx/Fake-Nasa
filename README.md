@@ -1,2 +1,2 @@
-# fake-Nasa2
-acesse o site aqui: https://sphinx045.github.io/fake-Nasa2/.
+# Fake-Nasa
+Acesse o site aqui: https://sphinx045.github.io/Fake-Nasa/
